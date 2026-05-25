@@ -1,2 +1,0 @@
-# zulhakar.github.io
-Zulhakar
