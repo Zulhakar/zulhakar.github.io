@@ -2,17 +2,23 @@ project:
   type: website
 
 website:
-  title: "zulhakar.github.io"
+  title: "Zulhakar"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - index.qmd
       - about.qmd
-
+    right:
+      - href: https://zulhakar.github.io/OnlyBlends.Mixer.Docs/
+        text: Onlyblends.Mixer
+      - icon: youtube
+        href: https://www.youtube.com/@Zulhakar
 format:
   html:
+    respect-user-color-scheme: true
     theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
+      light: flatly
+      dark: darkly
+     
+    #theme:
+    #  - cosmo
+    #  - brand
