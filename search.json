@@ -4,13 +4,34 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "…"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "zulhakar.github.io",
+    "title": "Hello",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello"
+  },
+  {
+    "objectID": "onlyblends.mixer.html",
+    "href": "onlyblends.mixer.html",
+    "title": "Onlyblends.Mixer",
+    "section": "",
+    "text": "Fixed copy function of Nodes, where “CTRL+V” of nodes caused Blender to crash ## v0.1.3 Hotfix\nLoading a .blend file containing Mixer nodes should now work better\nOscillator Nodes and ‘Geometry to Sample’ Nodes update the Node tree after loading the .blend file.\nGeneral fix for ‘Geometry to Sample’ Node\n\n\n\n\n\nComplete Refactor\nThe basic Node functions moved to OnlyBlends.Core https://github.com/Zulhakar/OnlyBlendsCore\nMIDI Import\nMIDI to Track\nTrack Sample\nImport Sound Node\nSound To Sample Node\nRemoved “Instrument Node” -&gt; Use “Track Sample” Node\nConnection to Geometry Nodes via “Geometry Modifier Object” and “Object To Sample”"
+  },
+  {
+    "objectID": "onlyblends.mixer.html#v0.1.2-hotfix",
+    "href": "onlyblends.mixer.html#v0.1.2-hotfix",
+    "title": "Onlyblends.Mixer",
+    "section": "",
+    "text": "Fixed copy function of Nodes, where “CTRL+V” of nodes caused Blender to crash ## v0.1.3 Hotfix\nLoading a .blend file containing Mixer nodes should now work better\nOscillator Nodes and ‘Geometry to Sample’ Nodes update the Node tree after loading the .blend file.\nGeneral fix for ‘Geometry to Sample’ Node"
+  },
+  {
+    "objectID": "onlyblends.mixer.html#section",
+    "href": "onlyblends.mixer.html#section",
+    "title": "Onlyblends.Mixer",
+    "section": "",
+    "text": "Complete Refactor\nThe basic Node functions moved to OnlyBlends.Core https://github.com/Zulhakar/OnlyBlendsCore\nMIDI Import\nMIDI to Track\nTrack Sample\nImport Sound Node\nSound To Sample Node\nRemoved “Instrument Node” -&gt; Use “Track Sample” Node\nConnection to Geometry Nodes via “Geometry Modifier Object” and “Object To Sample”"
   }
 ]
