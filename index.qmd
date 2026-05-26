@@ -1,5 +1,8 @@
 ---
-title: "Hello"
+title: "About"
+image: images/avatar/avatar.png
+about:
+  template: jolla
 ---
 
-Hello
+It's me!

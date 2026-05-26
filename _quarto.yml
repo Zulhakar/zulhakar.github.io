@@ -3,21 +3,24 @@ project:
 
 website:
   title: "Zulhakar"
+  draft-mode: unlinked
+  
   navbar:
+    title: false 
     left:
       - index.qmd
-      - about.qmd
+      - projects.qmd
     right:
-      - href: https://zulhakar.github.io/OnlyBlends.Mixer.Docs/
-        text: Onlyblends.Mixer
+      - href: https://extensions.blender.org/author/41884/
+        text: "![Onlyblends.Mixer](https://download.blender.org/branding/community/blender_community_badge_black.svg){height=1.6em}"
       - icon: youtube
         href: https://www.youtube.com/@Zulhakar
 format:
   html:
     respect-user-color-scheme: true
     theme:
-      light: flatly
-      dark: darkly
+      light: sketchy
+      dark: vapor
      
     #theme:
     #  - cosmo
