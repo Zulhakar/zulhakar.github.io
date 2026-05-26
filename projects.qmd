@@ -2,7 +2,9 @@
 title: "Projects"
 ---
 
-## Blender Extensions <a href="https://extensions.blender.org/author/41884/">![](https://download.blender.org/branding/community/blender_community_badge_black.svg){height="1.5em"}</a>
+## [Blender Extensions](https://extensions.blender.org/author/41884/)  <a href="https://extensions.blender.org/author/41884/">![](https://download.blender.org/branding/community/blender_community_badge_black.svg){height="1.5em"}</a>
+
+<img align="right" width="400" height="160" src="images/screenshots/mixer_1.png">
 
 ### OnlyBlends.Mixer 
 
@@ -12,12 +14,15 @@ title: "Projects"
 
 [Documentation](https://zulhakar.github.io/OnlyBlends.Mixer.Docs/) 
 
+<img align="right" width="400" height="160" src="images/screenshots/gamepad.png">
+
 ### OnlyBlends.Gamepad 
 
 [Blender Extension](https://extensions.blender.org/add-ons/only-blends-gamepad/) 
 
 [Github](https://github.com/Zulhakar/OnlyBlendsGamepad) 
 
+<br><br>
 
 ### OnlyBlends.Core 
 
